@@ -1,0 +1,10 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^rudin\.cc [OR]
+RewriteCond %{HTTP_HOST} ^www.rudin\.cc$
+RewriteCond %{HTTPS} =off
+RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [QSA,L,R=301]
+
+RewriteCond %{HTTP_HOST} ^leorudin\.ch$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.leorudin\.ch$
+RewriteRule ^(.*)$ "http\:\/\/rudin\.cc\/$1" [R=301,L]
+
