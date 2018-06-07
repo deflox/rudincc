@@ -43,7 +43,7 @@
         <div class="container intro">
             <div class="row">
                 <div class="col-md-4 me">
-                    <img src="img/me.jpg" alt="Leo Rudin">
+                    <img src="img/me.png" alt="Leo Rudin">
                 </div>
                 <div class="col-md-8 desc">
                     <h1>Leo Rudin</h1>
@@ -61,20 +61,24 @@
         <div class="container">
             <h1>About Me</h1>
             <p>
-                I'm currently 18 years old and live in Switzerland. I got my first experience
-                in creating websites with HTML when I was around 15 years old. Since then
-                my passion for creating application for the web grow and grow. Today I still
-                enjoy creating web stuff and I'm learning new things everyday.
+                I’m currently 21 years old and live in Switzerland.
             </p>
             <p>
-                After school, I started an apprenticeship as an Application Developer at 
-                <a href="http://credit-suisse.com" target="_blank">Credit Suisse.</a> There, 
-                I primarly develop on IBM Mainframes with languages PL/1 and JCL but also 
-                with Java.
+                I gained my first experiences in creating websites when I was around 15 years old. 
+                Since then, my passion for creation applications for the web grew and grew. Today I 
+                still enjoy creating stuff for the web and I’m keen to learn new things everyday. 
+                I mainly develop with PHP but I’d like to get a bit more into Ruby or NodeJS in the future.
             </p>
             <p>
-                Besides the programming, I like to go swimming and bicycling. In winter I really
-                enjoy skiing.
+                After school I started an apprenticeship as an Application Developer at 
+                <a href="http://credit-suisse.com" target="_blank">Credit Suisse</a> which I successfully 
+                completed in Summer 2017. During that time I primarly developed JavaEE applications with 
+                JSF, Struts and Hibernate, but I also had the opportunity to get a bit into Mainframe programming 
+                with PL/1, JCL and DB2. Now I still work at Credit Suisse as an Java Developer.
+                
+            </p>
+            <p>
+                Besides programming, I like to go running or bicycling. During winter I really enjoy skiing.
             </p>
         </div>
     </section>
